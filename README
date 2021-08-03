@@ -1,0 +1,15 @@
+A web component that scrapes an HTML page's DOM,
+and builds a representation of it in a nested boxes structure. for example:
+
+ ****************************
+ * body                     *
+ * **********************   *
+ * * div                *   *  
+ * * ****************** *   *
+ * * * span           * *   *
+ * * ****************** *   *
+ * **********************   *
+ ****************************
+
+ These exercise goals are making simple DOM traversing & manipulating,
+ and building a web component while keeping proper design principles.
